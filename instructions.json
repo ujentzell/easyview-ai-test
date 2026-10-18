@@ -1,0 +1,7 @@
+{
+  "formatVersion": 1,
+  "revision": 1,
+  "skills": [
+    "---\nid: measurement-test\ntitle: Measurement interpretation test\napplies-to: any\nversion: 1\nstatus: draft\n---\nUse the supplied measurement evidence only. Explain the selected channels, units and time period.\nSeparate observations from possible explanations. Missing readings are not zero. A correlation\ndoes not establish a cause. Never invent a threshold or a statistical result. If evidence is\ninsufficient, state what is missing. This is a generic test instruction, not approved domain advice.\n"
+  ]
+}
